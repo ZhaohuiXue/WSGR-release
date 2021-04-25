@@ -19,8 +19,8 @@
 %   Cite:
 %   --------------------------------------
 %
-%   [1]Z. Xue, P. Du, J. Li, H. Su. Sparse graph regularization for hyperspectral remote sensing image classification[J].
-%      IEEE Transactions on Geoscience Remote Sensing, 2017, 55(4): 2351-2366.
+%   [1]Z. Xue, P. Du, J. Li, H. Su. Sparse graph regularization for robust crop mapping using hyperspectral remotely sensed imagery with very few in situ data[J].
+%      ISPRS Journal of Photogrammetry Remote Sensing, 2017, 124: 1-15.
 %   [2]Z. Xue, S. Yang and L. Zhang. Weighted Sparse Graph Regularization for Spectral-Spatial Classification of Hyperspectral Images[J].
 %      IEEE Geoscience and Remote Sensing Letters, 2021, doi: 10.1109/LGRS.2020.3005168.
 %
