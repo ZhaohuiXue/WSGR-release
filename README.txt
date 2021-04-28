@@ -29,7 +29,7 @@
 %   --------------------------------------
 %
 %   The programs contained in this package are granted free of charge for
-%   research and education purposes only. %
+%   research and education purposes only. 
 %
 % Copyright (c) 2021 by Zhaohui Xue
 % zhaohui.xue@hhu.edu.cn
