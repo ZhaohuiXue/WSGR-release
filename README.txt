@@ -30,7 +30,4 @@
 %
 %   Copyright (c) 2021 by Zhaohui Xue
 %   zhaohui.xue@hhu.edu.cn
-%   --------------------------------------
-%   For full package:
-%   --------------------------------------
 %   https://sites.google.com/site/zhaohuixuers/
