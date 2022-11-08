@@ -5,7 +5,7 @@
 %
 %    This demo shows the WSGR methods for hyperspectral image classification.
 %
-%    fun_SGR.m ....... A function implementing the SGR model
+%    fun_SGR.p ....... A function implementing the SGR model (complied in Matlab R2022a)
 %    sunsal.m ..........A function conducting SR using sunsal algorithm
 %    calcError.m .......A function for computing confusion matrix
 %    soft.m ............A soft thresholding function
